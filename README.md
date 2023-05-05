@@ -1,4 +1,4 @@
-# ComputerVision
+# HandDetection
 Project developed for the Computer Vision course at University of Padova
 
 # Link to last trained weights and dataset used for the training

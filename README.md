@@ -1,5 +1,5 @@
 # HandDetection
-Project developed for the Computer Vision course at University of Padova
+Project developed for the Computer Vision course at the University of Padova
 
 # Link to last trained weights and dataset used for the training
 https://drive.google.com/drive/folders/1OH6gFzy8r82F2DVXrzTuOyVrsmGgOZaW?usp=share_link
